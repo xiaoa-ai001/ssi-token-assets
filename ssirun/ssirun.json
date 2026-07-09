@@ -1,0 +1,9 @@
+{
+  "name": "SSI Speedrun",
+  "symbol": "SSIRUN",
+  "description": "speedrun test coin from the ssi launch pipeline on robinhood chain (id 4663). not affiliated with robinhood.",
+  "image": "https://raw.githubusercontent.com/xiaoa-ai001/ssi-token-assets/master/ssirun/ssirun.png",
+  "external_url": "https://x.com/ssispike",
+  "websites": [{"label": "X", "url": "https://x.com/ssispike"}],
+  "socials": [{"platform": "x", "url": "https://x.com/ssispike"}]
+}
