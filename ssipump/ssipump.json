@@ -1,0 +1,9 @@
+{
+  "name": "SSI Pump",
+  "symbol": "SSIPUMP",
+  "description": "ssi.fun pump mode showcase: bonding curve $4.2k -> $69k FDV, graduates to Uniswap V2 with LP burned. not affiliated with robinhood.",
+  "image": "https://raw.githubusercontent.com/xiaoa-ai001/ssi-token-assets/master/ssipump/ssipump.png",
+  "external_url": "https://rh.ssi.fun",
+  "websites": [{"label": "Website", "url": "https://rh.ssi.fun"}],
+  "socials": [{"platform": "x", "url": "https://x.com/ssispike"}]
+}

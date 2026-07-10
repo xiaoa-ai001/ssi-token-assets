@@ -1,0 +1,9 @@
+{
+  "name": "Pump Test 2",
+  "symbol": "PTEST2",
+  "description": "pump-mode mechanism test token #2 (proceeds split test). robinhood chain 4663. worthless test token.",
+  "image": "https://raw.githubusercontent.com/xiaoa-ai001/ssi-token-assets/master/ptest2/ptest2.png",
+  "external_url": "https://rh.ssi.fun",
+  "websites": [{"label": "Website", "url": "https://rh.ssi.fun"}],
+  "socials": [{"platform": "x", "url": "https://x.com/ssispike"}]
+}
